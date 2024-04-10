@@ -5,6 +5,8 @@
 
 ![Chanho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkroom01&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkroom01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Introduction
 안녕하세요.
 SW프로세스를 좋아합니다
