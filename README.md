@@ -1,21 +1,13 @@
 ### Hi there 👋
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeauto&height=300&section=header&text=welcome&fontSize=90)
-
-![Chanho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkroom01&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkroom01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Introduction
-안녕하세요.
-SW프로세스를 좋아합니다
 
 ## Career
 영남대학교 컴퓨터공학과 학생
 
 ## Links
-E-mail - darkroom01@icloud.com
+E-mail - chhur3376@gmail.com
 
 ## Projects
 MOFY, Glople
