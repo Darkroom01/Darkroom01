@@ -48,8 +48,7 @@ Here are some ideas to get you started:
 
 ### Frontend
 - **React**: 동적 UI 구현, 컴포넌트 기반 개발.
-- **JavaScript (ES6+)**: 최신 JavaScript 문법을 사용한 웹 개발.
-- **HTML/CSS**: 웹 페이지 구조 설계 및 스타일링.
+- **JavaScript**: 최신 JavaScript 문법을 사용한 웹 개발.
 - **Axios**: API 요청 및 데이터 통신을 위한 HTTP 클라이언트.
 
 ### DevOps & Deployment
